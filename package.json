@@ -8,6 +8,9 @@
     "com.unity.demoteam.digital-human": "0.1.1-preview",
     "com.unity.animation.rigging": "0.2.6-preview",
     "com.unity.test-framework": "1.1.14"
+    "com.unity.demoteam.digital-human.sample": "https://github.com/Unity-Technologies/com.unity.demoteam.digital-human.sample.git",
+    "com.unity.demoteam.digital-human": "https://github.com/Unity-Technologies/com.unity.demoteam.digital-human.git",
+    "com.unity.demoteam.attributes": "https://github.com/Unity-Technologies/com.unity.demoteam.attributes.git",
   },
   "samples": [
     {
